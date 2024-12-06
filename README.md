@@ -41,6 +41,10 @@ A simple and intuitive web application for managing your daily tasks. This ToDos
 
 ---
 
+## Demo
+
+![Game Screenshot](https://github.com/deveshanurag/Todo/blob/master/home.png)
+
 ## How to Use
 
 1. Download or clone the project files.
